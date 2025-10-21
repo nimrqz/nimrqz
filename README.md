@@ -26,7 +26,6 @@
 
 ### 💼 Projetos em Destaque
 
-🚗 **FuelTech Simulator** — Sistema para simular acertos de injeção (Python + Flask)  
 ☁️ **AWS Data Pipeline** — Pipeline completo de ingestão, limpeza e análise de dados  
 🤖 **Machine Learning Model** — Modelo de regressão para previsão de tendências  
 
@@ -34,11 +33,6 @@
 
 ### 🌎 Conecte-se comigo
 
-📧 **nicolas.marcelino@email.com**  
+📧 **nicolasmarcelino1212@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/nicolas-marcelino)  
 📂 [Portfólio (em breve)](https://nimrqz.github.io)
-
----
-
-> “Disciplina, foco e técnica. O resto é consequência.”  
-> — Nicolas Marcelino 🚀
