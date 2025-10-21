@@ -34,5 +34,5 @@
 ### 🌎 Conecte-se comigo
 
 📧 **nicolasmarcelino1212@gmail.com**  
-💼 [LinkedIn](https://linkedin.com/in/nicolas-marcelino)  
+💼 [LinkedIn](https://www.linkedin.com/in/nicolas-marcelino-013709231/)  
 📂 [Portfólio (em breve)](https://nimrqz.github.io)
