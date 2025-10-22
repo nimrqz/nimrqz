@@ -19,8 +19,12 @@
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimrqz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrqz&layout=compact&theme=tokyonight)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimrqz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrqz&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
+
+</div>
 
 ---
 
