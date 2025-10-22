@@ -1,8 +1,8 @@
 # 👋 Fala, eu sou o Nicolas Marcelino
 
-💻 Desenvolvedor focado em **Data Engineering**, **Machine Learning** e **Cloud (AWS)**  
+💻 Desenvolvedor focado em **Data Engineering**, **Machine Learning** e **Cloud (AWS)**.  
 🚀 Estudante de ADS e apaixonado por performance, automação e engenharia de dados.  
-📍 Brasil | 🇺🇸 Em busca de oportunidades internacionais.  
+🌍 Brasil | 🇺🇸 Em busca de oportunidades internacionais.  
 
 ---
 
