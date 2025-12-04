@@ -21,8 +21,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimrqz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrqz&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=nimrqz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8)
+
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=nimrqz&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
 
 </div>
 
