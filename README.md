@@ -1,43 +1,48 @@
-# 👋 Fala, eu sou o Nicolas Marcelino
+## 👋 Olá, eu sou o Nicolas Marcelino
 
-💻 Desenvolvedor focado em **Data Engineering**, **Machine Learning** e **Cloud (AWS)**.  
-🚀 Estudante de ADS e apaixonado por performance, automação e engenharia de dados.  
-🌍 Brasil | 🇺🇸 Em busca de oportunidades internacionais.  
+💻 **Desenvolvedor Back-end Júnior com foco em Java**  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🚀 Em evolução constante, focado em lógica sólida, POO e boas práticas de código  
+
+Sou desenvolvedor em início de carreira, com experiência prática no desenvolvimento de **aplicações back-end em Java**, aplicando **Programação Orientada a Objetos**, organização de código e versionamento com Git. Busco minha **primeira oportunidade como Desenvolvedor Júnior**, onde eu possa aprender com projetos reais e crescer tecnicamente.
+
+📍 Brasil | 🌎 Aberto a oportunidades remotas
 
 ---
 
 ### 🧰 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=nimrqz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8)
-
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=nimrqz&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
-
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![SQL](https://img.shields.io/badge/SQL_Básico-336791?style=for-the-badge&logo=postgresql)
 
 ---
 
 ### 💼 Projetos em Destaque
 
-☁️ **AWS Data Pipeline** — Pipeline completo de ingestão, limpeza e análise de dados  
-🤖 **Machine Learning Model** — Modelo de regressão para previsão de tendências  
+🏦 **Sistema Bancário em Java**  
+Aplicação back-end simulando operações bancárias como criação de contas, depósitos, saques e validações, com foco em POO e regras de negócio.
+
+🛠️ **Projetos Práticos em Java**  
+Coleção de exercícios e pequenos sistemas desenvolvidos para reforçar lógica, orientação a objetos e organização de código.
 
 ---
 
-### 🌎 Conecte-se comigo
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimrqz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrqz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🌎 Contato
 
 📧 **nicolasmarcelino1212@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/nicolas-marcelino-013709231/)  
-📂 [Portfólio (em breve)](https://nimrqz.github.io)
+💼 [LinkedIn](https://www.linkedin.com/in/nicolas-marcelino-013709231/)
