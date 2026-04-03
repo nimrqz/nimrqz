@@ -28,11 +28,18 @@
 
 ### 📈 GitHub Ecosystem
 
+### 📊 Performance & Ecosystem
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nimrqz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimrqz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img src="https://metrics.lecoq.io/nimrqz?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics" width="100%">
 </div>
+
+<br>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimrqz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+</div>
+
 ---
 
 ### 📫 Get in Touch
