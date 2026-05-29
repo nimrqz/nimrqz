@@ -10,24 +10,43 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### Languages & Frameworks
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+#### Back-End & Linguagens
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000?style=flat-square&logo=spring-boot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=c-sharp" alt="C#" />
+</p>
 
-#### Cloud & DevOps
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+#### Front-End
+<p align="left">
+  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" alt="JavaScript" />
+</p>
 
-#### Databases & Tools
-![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+#### Bancos de Dados & Mensageria
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-000?style=flat-square&logo=rabbitmq" alt="RabbitMQ" />
+</p>
+
+#### DevOps & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=github-actions" alt="GitHub Actions" />
+</p>
 
 ---
 
@@ -44,9 +63,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolasmarcelinodev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/nimrqz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" alt="GitHub" />
   </a>
 </p>
