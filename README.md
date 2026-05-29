@@ -11,17 +11,16 @@
 
 #### Back-End & Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000?style=flat-square&logo=spring-boot" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" alt="Python" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,go,py" alt="Back-End Technologies" />
+  </a>
 </p>
 
 #### Databases & Messaging
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Database Technologies" />
+  </a>
 </p>
 
 ---
