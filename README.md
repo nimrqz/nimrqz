@@ -1,9 +1,16 @@
 # Hey! I'm Nicolas Marcelino 👋
-
+<p align="left">
 👨‍💻 **Software Engineer** | Especialista em Desenvolvimento de Software
+</p>
+<p align="left">
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FSA (Centro Universitário Fundação Santo André)**
+</p>
+<p align="left">
 💼 Atualmente trabalhando na **Exata Tech**
+</p>
+<p align="left">
 🗣️ **B1 Intermediate English Level**
+</p>
 🔗 Conecte-se comigo através do [LinkedIn](https://www.linkedin.com/in/nicolasmarcelinodev/) e acompanhe meus projetos no [GitHub](https://github.com/nimrqz)
 
 ---
