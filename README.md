@@ -3,10 +3,7 @@
 👨‍💻 **Software Engineer** | Especialista em Desenvolvimento de Software
 </p>
 <p align="left">
-🎓 Graduated in Systems Analysis and Development  at FSA(https://www2.fsa.br/home/)
-</p>
-<p align="left">
-💼 Atualmente trabalhando na **Exata Tech**
+🎓 Graduated in Systems Analysis and Development  at [FSA](https://www2.fsa.br/home)
 </p>
 <p align="left">
 🗣️ **B1 Intermediate English Level**
