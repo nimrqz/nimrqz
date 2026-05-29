@@ -1,20 +1,15 @@
 # Hey! I'm Nicolas Marcelino 👋
-<p align="left">
-👨‍💻 **Software Engineer** | Especialista em Desenvolvimento de Software
-</p>
-<p align="left">
-🎓 Graduated in Systems Analysis and Development  at [FSA](https://www2.fsa.br/home)
-</p>
-<p align="left">
+
+👨‍💻 **Software Engineer** | Software Development Specialist
+🎓 Graduated in Systems Analysis and Development at [FSA](https://www2.fsa.br/home)
 🗣️ **B1 Intermediate English Level**
-</p>
-🔗 Conecte-se comigo através do [LinkedIn](https://www.linkedin.com/in/nicolasmarcelinodev/) e acompanhe meus projetos no [GitHub](https://github.com/nimrqz)
+🔗 Connect with me via [LinkedIn](https://www.linkedin.com/in/nicolasmarcelinodev/) and follow my projects on [GitHub](https://github.com/nimrqz)
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
-#### Back-End & Linguagens
+#### Back-End & Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-000?style=flat-square&logo=spring-boot" alt="Spring Boot" />
@@ -22,7 +17,7 @@
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" alt="Python" />
 </p>
 
-#### Bancos de Dados & Mensageria
+#### Databases & Messaging
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql" alt="MySQL" />
@@ -31,7 +26,7 @@
 
 ---
 
-### 🤝 Conecte-se Comigo
+### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolasmarcelinodev/" target="_blank">
