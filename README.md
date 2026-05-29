@@ -22,16 +22,3 @@
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Database Technologies" />
   </a>
 </p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicolasmarcelinodev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/nimrqz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-</p>
