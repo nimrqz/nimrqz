@@ -3,7 +3,7 @@
 👨‍💻 **Software Engineer** | Especialista em Desenvolvimento de Software
 </p>
 <p align="left">
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FSA (Centro Universitário Fundação Santo André)**
+🎓 Graduated in Systems Analysis and Development  at FSA(https://www2.fsa.br/home/)
 </p>
 <p align="left">
 💼 Atualmente trabalhando na **Exata Tech**
