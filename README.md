@@ -12,7 +12,7 @@
 #### Back-End & Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py" alt="Back-End Technologies" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,dotnet,cs,aws" alt="Back-End Technologies" />
   </a>
 </p>
 
