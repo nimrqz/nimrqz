@@ -29,7 +29,7 @@
 nicolas:
   cargo: "Engenheiro de Software"
   foco: "Desenvolvimento Backend & Integração de Sistemas"
-  localizacao: "São Paulo - SP, Brasil"
+  localizacao: "Santo André - SP, Brasil"
   formacao: "Análise e Desenvolvimento de Sistemas — FSA (2025-2027)"
   atuacao_atual: "Estagiário em Engenharia de Dados / Desenvolvimento @ Exata Tech"
   idiomas: ["Português (nativo)", "Inglês (B1)"]
